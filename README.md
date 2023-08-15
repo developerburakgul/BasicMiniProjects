@@ -15,7 +15,7 @@ Here I am going to add small examples that I learned, for example UIPickerView
 
 
 
-<img src="https://github.com/developerburakgul/BasicMiniProjects/blob/main/UIPickerLearnDemo/UIPİckerLearnDemoSS.png?raw=true" height ="250"/>
+<img src="https://github.com/developerburakgul/BasicMiniProjects/blob/main/UIPickerLearnDemo/UIPİckerLearnDemoSS.png?raw=true" height ="400"/>
 
 
   
